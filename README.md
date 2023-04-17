@@ -1,2 +1,2 @@
 # videoeditor
-web video editor 
+powerstudio web video editor 
